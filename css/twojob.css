@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Roboto:wght@300;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.img{
+    border-radius: 20px;
+    margin: 20px 0px ;
+}
+
+.arrow{
+width: 30px;
+margin-bottom: 60px;
+}
+
+body{
+    background-color: #f8f8f8;
+}
+
+hr{
+    border: 0;
+    height: 1px;
+    background: #dadada;
+    width: 80%;
+    margin: 0px auto 130px auto;
+}
+
+p {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #333333;
+}
+
+h1 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 90px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0px 0px 30px 0px;
+    color: #ffffff;
+
+}
+
+.title_text {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 38px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 66px;
+    margin-left: 70px;
+    color: #ffffff;
+
+}
+
+.tilte_text_detail{
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.bar_text {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0px 50px;
+    text-align: center;
+    text-decoration: none;
+    color: #616161;
+}
+
+
+h2 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0px 0px 8px 0px;
+    color: #e96557;
+}
+
+.minititle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: #e96557;
+    margin-top: 0px;
+    margin-bottom: 10px;
+
+}
+
+.text_middle{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0px 10px 0px 10px;
+    color: #161616;
+    margin-bottom: 14px;
+
+}
+
+.text_big{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 26px;
+    font-weight: 300;
+    margin: 0px 10px 0px 10px;
+    color: #414141;
+    margin-bottom: 24px;
+    text-align: center;
+ 
+}
+
+
+.title_area {
+    margin: 0 auto;
+    padding: 220px 0px 200px 0px;
+    width: auto;
+    background-image: url(../img/bgimg.jpg);
+    background-size: cover;
+}
+
+.content_bar {
+    margin: 40px auto 80px auto;
+    width: 900px;
+}
+
+.bar_textarea {
+    display: inline-block;
+    width: auto;
+    margin: 0 auto;
+}
+
+.arrow_area{
+    width: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.content_in {
+    margin-bottom: 200px;
+}
+
+.content_box {
+    margin: 40px 0px 40px 0px;
+}
+
+.content_box2 {
+    background-color: #f0f0f0;
+    border-radius: 20px;
+    padding: 30px 20px;
+    margin-top: 0px;
+}
+
+.content_box3 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 50px 40px;
+    margin-top: 100px;
+    box-shadow: 3px 3px 18px #d3d3d3;
+}
