@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Roboto:wght@300;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.img {
+    border-radius: 20px;
+    margin: 20px 0px 40px 0px;
+}
+
+.arrow {
+    width: 30px;
+    margin-bottom: 60px;
+}
+
+body {
+    background-color: #f8f8f8;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background: #dadada;
+    width: 80%;
+    margin: 0px auto 130px auto;
+}
+
+p {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #333333;
+}
+
+h1 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 100px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0px 0px 110px 0px;
+    color: #ffffff;
+
+}
+
+.line2 {
+    width: 100px;
+    height: 6px;
+    background-color: #ffffff;
+    border-radius: 100px;
+    margin: 0 auto 30px auto;
+}
+
+.title_text {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 44px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 74px;
+    margin-left: 74px;
+    color: #ffffff;
+
+}
+
+.tilte_text_detail {
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.bar_text {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0px 50px;
+    text-align: center;
+    text-decoration: none;
+    color: #616161;
+}
+
+:hover.bar_text {
+    color: #e96557;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0px 0px 8px 0px;
+    color: #e96557;
+    padding: 28px 0px 0px 0px;
+}
+
+.minititle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: #e96557;
+    margin-top: 0px;
+    margin-bottom: 10px;
+
+}
+
+.text_middle {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0px 10px 0px 10px;
+    color: #161616;
+    margin-bottom: 14px;
+
+}
+
+.text_bold {
+    font-size: 20px;
+
+}
+
+.text_big {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 26px;
+    font-weight: 300;
+    margin: 0px 10px 0px 10px;
+    color: #414141;
+    margin-bottom: 24px;
+    text-align: center;
+
+}
+
+
+.title_area {
+    margin: 0 auto;
+    padding: 220px 0px 200px 0px;
+    width: auto;
+    background-image: url(../img/bgimg.jpg);
+    background-size: cover;
+}
+
+.content_bar {
+    position: sticky;
+    top: 0px;
+    background-color: #f8f8f8;
+    margin: 0 auto;
+    padding: 30px 0px;
+
+
+}
+
+.arrow_area {
+    width: auto;
+    text-align: center;
+    margin: 40px auto 0px auto;
+}
+
+.content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.content_in {
+    margin-bottom: 200px;
+}
+
+.content_box {
+    margin: 40px 0px 40px 0px;
+}
+
+.content_flex {
+    display: flex;
+}
+
+.line {
+    width: 8px;
+    height: auto;
+    background-color: #e96557;
+    border-radius: 10px;
+    margin: 10px 30px 10px 10px;
+}
+
+.text_detail {
+    width: 900px;
+
+}
+
+.content_box2 {
+    background-color: #f0f0f0;
+    border-radius: 20px;
+    padding: 30px 30px;
+    margin-top: 0px;
+}
+
+.content_box3 {
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 50px 40px;
+    margin-top: 100px;
+    box-shadow: 3px 3px 18px rgba(0,0,0, .12);
+    z-index: 1;
+}
+
+.back_img {
+    position: relative;
+    top: -120px;
+    left: 767px;
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #e96557;
+    z-index: 2;
+    box-shadow: 2px 2px 6px rgba(0,0,0, .12);
+
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #333333;
+    padding: 14px;
+    text-align: center;
+    color: #ffffff;
+    border: 0;
+
+    
+}
+
+.back_img:hover {
+    background-color: #ffffff;
+    color: #e96557;
+    border: 1px solid #e96557;
+
+}
+
+.back_img:focus {
+    outline: 0;
+}
