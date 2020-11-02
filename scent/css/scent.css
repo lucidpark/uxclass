@@ -302,19 +302,24 @@ p {
 
 .price1 {
     text-align: left;
-    font: normal normal 100 29px/35px Apple SD Gothic Neo;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 29px;
     letter-spacing: -1.3px;
-    color: #000000;
+    color: #6d6d6d;
     opacity: 1;
-    margin-bottom: 6px;
+    margin-left: 10px;
 }
 
 
 .price2 {
     text-align: left;
-    font: normal normal 800 48px/57px Apple SD Gothic Neo;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 47px;
+
     letter-spacing: -2.0px;
-    color: #343434;
+    color: #424242;
     opacity: 1;
     margin-bottom: 40px;
 }
