@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    height: 100%;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font: 600 90px 'Noto Sans KR';
+    letter-spacing: -2px;
+    line-height: 110px;
+    margin-bottom: 390px;
+    z-index: 10;
+    position: relative;
+}
+
+
+h3 {
+    color: white;
+    text-align: center;
+    font: 400 29px 'Noto Sans KR';
+    letter-spacing: -0.74px;
+    padding-bottom: 16px;
+    padding-top: 50px;
+    z-index: 10;
+    position: relative;
+    margin-left: 10px;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.button {
+    width: 128px;
+    background-color: white;
+    text-align: center;
+    font: 600 36px 'Noto Sans KR';
+    letter-spacing: -0.76px;
+    border-radius: 90px;
+    display: inline-block;
+    padding: 7px 70px 10px 70px;
+    box-shadow: 0px 16px black;
+    
+}
+
+.button:hover {
+    background-color: brown;
+    box-shadow: 0px 0px black;
+}
+
+.button_box {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    z-index: 10;
+
+}
+
+section {
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.image {
+    position: relative;
+}
+
+.img_man {
+    position: relative;
+
+    top: -850px;
+    left: 530px;
+    z-index: 5;
+
+}
+
+.img_light2 {
+    position: relative;
+
+    top: -2630px;
+    left: -425px;
+    z-index: 1;
+
+
+}
+
+.img_hat {
+    position: relative;
+
+    top: -710px;
+    left: 100px;
+    z-index: 5;
+    animation: ani 1s infinite alternate;
+
+}
+
+.img_stick {
+    position: relative;
+
+    top: -1650px;
+    left: 652px;
+    animation: ani 1s infinite alternate;
+    animation-delay: 0.2s;
+
+}
+
+.img_light1 {
+    position: relative;
+
+    top: -1745px;
+    left: 273px;
+    z-index: 2;
+
+}
+
+.img_text {
+    position: relative;
+
+    top: -80px;
+    left: 90px;
+}
+
+.img_box {
+    position: relative;
+
+    width: 0px;
+    height: 0px;
+}
+
+
+@keyframes ani {
+    0% {
+        transform: translate(0, 50px);
+    }
+
+    100% {
+        transform: translate(0, 0px);
+    }
+}
+
