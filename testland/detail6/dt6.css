@@ -1,0 +1,248 @@
+.img {
+    position: absolute;
+}
+
+.imgbear {
+    top: 765px;
+    left: 637px;
+    width: 149px;
+    height: 71px;
+
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+}
+
+.imgbear2 {
+    top: 765px;
+    left: 637px;
+    width: 149px;
+    height: 71px;
+
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+}
+
+
+.imgbear:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imgbear2:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+
+
+
+
+.imgeagle {
+    top: 765px;
+    left: 803px;
+    width: 149px;
+    height: 71px;
+    transform: scale(1.1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imgeagle2 {
+    top: 765px;
+    left: 803px;
+    width: 149px;
+    height: 71px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imgeagle:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imgeagle2:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+
+.imgrabbit {
+    top: 765px;
+    left: 969px;
+    width: 149px;
+    height: 71px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imgrabbit2 {
+    top: 765px;
+    left: 969px;
+    width: 149px;
+    height: 71px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imgrabbit:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imgrabbit2:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imgdeer {
+    top: 765px;
+    left: 1135px;
+    width: 149px;
+    height: 71px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+    z-index: 2;
+
+}
+
+.imgdeer2 {
+    top: 765px;
+    left: 1135px;
+    width: 149px;
+    height: 71px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+    z-index: 2;
+
+}
+
+.imgdeer:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imgdeer2:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+
+.btbox {
+    width: 128px;
+    background-color: white;
+    text-align: center;
+    letter-spacing: -0.76px;
+    border-radius: 90px;
+    padding: 7px 70px 10px 70px;
+    display: inline-block;
+}
+
+.btbox2 {
+    width: 62px;
+    background-color: rgb(0, 0, 0);
+    border: 1px solid white;
+    text-align: center;
+    letter-spacing: -0.76px;
+    border-radius: 90px;
+    padding: 7px 70px 10px 70px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.btbox2:hover{
+opacity: 0.5;
+}
+
+
+.bttxt2{
+    text-align: center;
+    font: 300 34px 'Noto Sans KR';
+    letter-spacing: -0.76px;
+    color: #ffffff;
+    opacity: 1;
+    text-decoration: none;
+}
+
+.btbox:hover {
+    background-color: brown;
+}
+
+.imgarea {
+    width: 100%;
+    position: relative;
+    top: -400px;
+    left: -455px;
+}
+
+.blank {
+    top: 375px;
+    left: 796px;
+    width: 329px;
+    height: 330px;
+}
+
+.flex{
+    display: flex;
+    display: inline-block;
+}

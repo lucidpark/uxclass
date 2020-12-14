@@ -1,0 +1,254 @@
+.img {
+    position: absolute;
+}
+
+.imgbear{
+    top: 505px;
+    left: 298px;
+    width: 542px;
+    height: 381px;
+
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+}
+
+.imgbear2{
+    top: 505px;
+    left: 298px;
+    width: 542px;
+    height: 381px;
+
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+}
+
+
+.imgbear:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imgbear2:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+
+
+
+
+.imgeagle {
+    top: 178px;
+    left: 563px;
+    width: 480px;
+    height: 430px;
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 0, 0);
+    opacity: 1;
+
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imgeagle2 {
+    top: 178px;
+    left: 563px;
+    width: 480px;
+    height: 430px;
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 0, 0);
+    opacity: 1;
+
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imgeagle:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imgeagle2:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+
+.imgrabbit {
+    top: 723px;
+    left: 721px;
+    width: 163px;
+    height: 142px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imgrabbit2 {
+    top: 723px;
+    left: 721px;
+    width: 163px;
+    height: 142px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imgrabbit:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imgrabbit2:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imgdeer {
+    top: 552px;
+    left: 885px;
+    width: 348px;
+    height: 348px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imgdeer2 {
+    top: 552px;
+    left: 885px;
+    width: 348px;
+    height: 348px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imgdeer:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.imgdeer2:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imglion {
+    top: 521px;
+    left: 1115px;
+    width: 360px;
+    height: 382px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+.imglion2 {
+    top: 521px;
+    left: 1115px;
+    width: 360px;
+    height: 382px;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.imglion:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.imglion2:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.btbox {
+    width: 128px;
+    background-color: white;
+    text-align: center;
+    font: 600 36px 'Noto Sans KR';
+    letter-spacing: -0.76px;
+    border-radius: 90px;
+    display: inline-block;
+    padding: 7px 70px 10px 70px;
+
+}
+
+.btbox:hover {
+    background-color: brown;
+    box-shadow: 4px 8px black;
+}
+
+.imgarea {
+    width: 100%;
+    position: relative;
+    top: -400px;
+    left: -455px;
+}
